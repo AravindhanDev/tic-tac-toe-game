@@ -68,25 +68,26 @@ h2 {
 @media all and (max-width: 980px) {
   .square {
     font-size: 6.2rem;
-    width: 8.5rem;
-    height: 8.5rem;
+    width: 13rem;
+    height: 13rem;
   }
   .icon {
     position: absolute;
-    left: 32.6rem;
-    top: 11.3rem;
+    left: 38.3rem;
+    top: 16.2rem;
+    font-size: 4rem;
   }
   p {
-    font-size: 2rem;
+    font-size: 3.2rem;
   }
   h2 {
     padding-bottom: 0;
     margin-bottom: 0;
-    font-size: 4.3rem;
+    font-size: 6.5rem;
   }
   #footer {
     font-size: 1.1rem;
     text-align: center;
-    padding: 2rem 0;
+    margin: 4rem 0 2rem;
   }
 }
