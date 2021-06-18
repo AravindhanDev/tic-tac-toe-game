@@ -49,7 +49,7 @@ h2 {
 
 .icon {
   margin-left: 7rem;
-  font-size: 1.7rem;
+  font-size: 2.5rem;
   position: absolute;
   right: 30.6rem;
   top: 8.8rem;
@@ -67,21 +67,22 @@ h2 {
 
 @media all and (max-width: 980px) {
   .square {
-    font-size: 4rem;
-    width: 5.5rem;
-    height: 5.5rem;
+    font-size: 6.2rem;
+    width: 8.5rem;
+    height: 8.5rem;
   }
   .icon {
     position: absolute;
-    left: 10rem;
-    top: 8.6rem;
+    left: 32.6rem;
+    top: 11.3rem;
   }
   p {
-    font-size: 1.4rem;
+    font-size: 2rem;
   }
   h2 {
     padding-bottom: 0;
     margin-bottom: 0;
+    font-size: 4.3rem;
   }
   #footer {
     font-size: 1.1rem;
